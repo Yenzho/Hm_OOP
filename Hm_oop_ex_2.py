@@ -21,7 +21,7 @@ class Album:
                 tr.show()
 
     def add_track(self):
-        self.all_tracks.append()
+        self.all_tracks.append(Track)
 
 
     def get_duration(self):
